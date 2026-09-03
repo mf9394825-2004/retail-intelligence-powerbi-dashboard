@@ -159,7 +159,7 @@ The design focuses on clear data visualization and an easy-to-navigate user expe
 
 ### Summary
 
-![Summary](dashboard-preview.png)
+![Summary](screenshots/dashboard-preview.png)
 
 ### Revenue
 
