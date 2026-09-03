@@ -152,11 +152,6 @@ The dashboard follows a professional **Dark Navy & Gold** theme with:
 
 The design focuses on clear data visualization and an easy-to-navigate user experience.
 
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
